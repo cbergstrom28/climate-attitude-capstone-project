@@ -1,0 +1,3 @@
+Each of these data folders contains the files used in my analysis. 
+The CCAM data is from the Climate Change and the American Mind survey produced by Yale Center for Climate Change communication. The biannual survey asks individuals of their attitudes about climate change and is sorted by region across the United States.
+The Disaster Event Data is from the NOAA Billion Dollar Disaster data set. This includes any storm event that cost over 1 billion USD. I filtered this dataset from the download to only include the years the CCAM survey took place (2008-2024.)
